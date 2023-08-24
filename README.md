@@ -1,16 +1,29 @@
-### Hi there 👋
+## Olá, sou Lucas Carvalho Mendes
 
-<!--
-**LucasCMendes10/LucasCMendes10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 📅 03/07/2004
 
-Here are some ideas to get you started:
+• 📧 [lucascmendes03@gmail.com](mailto:lucascmendes03@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="https://github.com/LucasCMendes10">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasCMendes10&count_private=true&show_icons=true&title_color=5589d6&text_color=DEDEDE&icon_color=5589d6&bg_color=191919&border_radius=10"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCMendes10&layout=compact&title_color=5589d6&text_color=DEDEDE&bg_color=191919&border_radius=10"/>
+    </a>
+</div>
+
+##
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60em"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60em">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60em"/>  
+</div>
+
+##
+
+<div align="center">
+<a href="mailto:lucascmendes03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28em"></a>
+<a href="https://www.linkedin.com/in/LucasCMendes10/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28em"></a>
+</div>
