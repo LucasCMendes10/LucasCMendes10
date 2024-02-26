@@ -24,6 +24,6 @@
 <div align="center">
 <a href="mailto:lucascmendes03@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28em"></a>
-<a href="https://www.linkedin.com/in/LucasCMendes10/">
+<a href="https://www.linkedin.com/in/lucas-carvalho-mendes-864231287/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28em"></a>
 </div>
