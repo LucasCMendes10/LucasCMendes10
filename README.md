@@ -2,7 +2,7 @@
 
 • 📅 03/07/2004
 
-• 📧 [lucascmendes03@gmail.com](mailto:lucascmendes03@gmail.com)
+• 📧 [lucas.mendes@sptech.school](mailto:lucas.mendes@sptech.school)
 
 <div align="center">
     <a href="https://github.com/LucasCMendes10">
@@ -27,8 +27,8 @@
 ##
 
 <div align="center">
-<a href="mailto:lucascmendes03@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28em"></a>
+<a href="mailto:lucas.mendes@sptech.school">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="28em"></a>
 <a href="https://www.linkedin.com/in/lucas-carvalho-mendes-864231287/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28em"></a>
 </div>
