@@ -7,8 +7,6 @@
 <div align="center">
     <a href="https://github.com/LucasCMendes10">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasCMendes10&count_private=true&show_icons=true&title_color=5589d6&text_color=DEDEDE&icon_color=5589d6&bg_color=191919&border_radius=10"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCMendes10&layout=compact&title_color=5589d6&text_color=DEDEDE&bg_color=191919&border_radius=10"/>
-    </a>
 </div>
 
 ##
